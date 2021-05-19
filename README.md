@@ -1,5 +1,5 @@
-# calculator-vanilla-js
+# CALCULATOR IN JAVASCRIPT
 
-A Calculator made with Vanilla JS
+I practiced working in Javascript by puting a calculator together.
 
-# WHAT I'VE LEARNT
+
